@@ -1,0 +1,14 @@
+# Java compilado
+*.class
+bin/
+out/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos locales sensibles
+.env
+*.local.properties
