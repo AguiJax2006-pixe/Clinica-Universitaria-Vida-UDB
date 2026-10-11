@@ -54,7 +54,11 @@ Las pantallas de pacientes y doctores utilizan sus respectivos DAO para leer y g
 
 ## Integrantes
 
-Completar con los nombres de los integrantes del equipo.
+Andrea Michelle Jimenez Aguilar - JA262091
+Kimberly Alexandra Rivera Lopez - RL261989
+Maria Ester Lopez Samour - LS253257
+Edwin Andres Crespin Rivera - CR260027
+Carlos Rodrigo Hernández Guardado - HG262490
 
 ## Proyecto académico
 
